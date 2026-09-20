@@ -1,0 +1,332 @@
+Total sub-assets: 265
+
+=== AnimationClip (39) ===
+  - agachado
+  - ataque1
+  - ataque2
+  - ataque3
+  - ataque-aereo1
+  - ataque-aereo2
+  - ataque-aereo3-bucle
+  - ataque-aereo3-fin
+  - ataque-aereo3-listo
+  - borde-agarre
+  - borde-salto
+  - borde-subir
+  - caer
+  - caminar
+  - caminar-agachado
+  - conjurar
+  - conjurar-bucle
+  - correr
+  - correr2
+  - correr-golpe
+  - derribado
+  - deslizar
+  - escalera-subir
+  - espada-guardar
+  - espada-sacar
+  - golpe
+  - herido
+  - levantarse
+  - morir
+  - objetos
+  - parado
+  - pared-correr
+  - pared-deslizar
+  - patada
+  - patada-caida
+  - reposo
+  - reposo-2
+  - saltar
+  - voltereta
+
+=== Animator (1) ===
+  - adventurer_espanol
+
+=== AnimatorController (1) ===
+  - adventurer_espanol
+
+=== AnimatorState (39) ===
+  - agachado
+  - ataque1
+  - ataque2
+  - ataque3
+  - ataque-aereo1
+  - ataque-aereo2
+  - ataque-aereo3-bucle
+  - ataque-aereo3-fin
+  - ataque-aereo3-listo
+  - borde-agarre
+  - borde-salto
+  - borde-subir
+  - caer
+  - caminar
+  - caminar-agachado
+  - conjurar
+  - conjurar-bucle
+  - correr
+  - correr2
+  - correr-golpe
+  - derribado
+  - deslizar
+  - escalera-subir
+  - espada-guardar
+  - espada-sacar
+  - golpe
+  - herido
+  - levantarse
+  - morir
+  - objetos
+  - parado
+  - pared-correr
+  - pared-deslizar
+  - patada
+  - patada-caida
+  - reposo
+  - reposo-2
+  - saltar
+  - voltereta
+
+=== AnimatorStateMachine (1) ===
+  - Base Layer
+
+=== AsepriteImportData (1) ===
+  - 
+
+=== GameObject (1) ===
+  - adventurer_espanol
+
+=== Sprite (179) ===
+  - Frame_0
+  - Frame_1
+  - Frame_10
+  - Frame_100
+  - Frame_101
+  - Frame_102
+  - Frame_103
+  - Frame_104
+  - Frame_105
+  - Frame_106
+  - Frame_107
+  - Frame_108
+  - Frame_109
+  - Frame_11
+  - Frame_110
+  - Frame_111
+  - Frame_112
+  - Frame_113
+  - Frame_114
+  - Frame_115
+  - Frame_116
+  - Frame_117
+  - Frame_118
+  - Frame_119
+  - Frame_12
+  - Frame_120
+  - Frame_121
+  - Frame_122
+  - Frame_123
+  - Frame_124
+  - Frame_125
+  - Frame_126
+  - Frame_127
+  - Frame_128
+  - Frame_129
+  - Frame_13
+  - Frame_130
+  - Frame_131
+  - Frame_132
+  - Frame_133
+  - Frame_134
+  - Frame_135
+  - Frame_136
+  - Frame_137
+  - Frame_138
+  - Frame_139
+  - Frame_14
+  - Frame_140
+  - Frame_141
+  - Frame_142
+  - Frame_143
+  - Frame_144
+  - Frame_145
+  - Frame_146
+  - Frame_147
+  - Frame_148
+  - Frame_149
+  - Frame_15
+  - Frame_150
+  - Frame_151
+  - Frame_152
+  - Frame_153
+  - Frame_154
+  - Frame_155
+  - Frame_156
+  - Frame_157
+  - Frame_158
+  - Frame_159
+  - Frame_16
+  - Frame_160
+  - Frame_161
+  - Frame_162
+  - Frame_163
+  - Frame_164
+  - Frame_165
+  - Frame_166
+  - Frame_167
+  - Frame_168
+  - Frame_169
+  - Frame_17
+  - Frame_170
+  - Frame_171
+  - Frame_172
+  - Frame_173
+  - Frame_174
+  - Frame_175
+  - Frame_176
+  - Frame_177
+  - Frame_178
+  - Frame_18
+  - Frame_19
+  - Frame_2
+  - Frame_20
+  - Frame_21
+  - Frame_22
+  - Frame_23
+  - Frame_24
+  - Frame_25
+  - Frame_26
+  - Frame_27
+  - Frame_28
+  - Frame_29
+  - Frame_3
+  - Frame_30
+  - Frame_31
+  - Frame_32
+  - Frame_33
+  - Frame_34
+  - Frame_35
+  - Frame_36
+  - Frame_37
+  - Frame_38
+  - Frame_39
+  - Frame_4
+  - Frame_40
+  - Frame_41
+  - Frame_42
+  - Frame_43
+  - Frame_44
+  - Frame_45
+  - Frame_46
+  - Frame_47
+  - Frame_48
+  - Frame_49
+  - Frame_5
+  - Frame_50
+  - Frame_51
+  - Frame_52
+  - Frame_53
+  - Frame_54
+  - Frame_55
+  - Frame_56
+  - Frame_57
+  - Frame_58
+  - Frame_59
+  - Frame_6
+  - Frame_60
+  - Frame_61
+  - Frame_62
+  - Frame_63
+  - Frame_64
+  - Frame_65
+  - Frame_66
+  - Frame_67
+  - Frame_68
+  - Frame_69
+  - Frame_7
+  - Frame_70
+  - Frame_71
+  - Frame_72
+  - Frame_73
+  - Frame_74
+  - Frame_75
+  - Frame_76
+  - Frame_77
+  - Frame_78
+  - Frame_79
+  - Frame_8
+  - Frame_80
+  - Frame_81
+  - Frame_82
+  - Frame_83
+  - Frame_84
+  - Frame_85
+  - Frame_86
+  - Frame_87
+  - Frame_88
+  - Frame_89
+  - Frame_9
+  - Frame_90
+  - Frame_91
+  - Frame_92
+  - Frame_93
+  - Frame_94
+  - Frame_95
+  - Frame_96
+  - Frame_97
+  - Frame_98
+  - Frame_99
+
+=== SpriteRenderer (1) ===
+  - adventurer_espanol
+
+=== Texture2D (1) ===
+  - adventurer_espanol
+
+=== Transform (1) ===
+  - adventurer_espanol
+
+=== GameObject hierarchy ===
+- adventurer_espanol [Transform, SpriteRenderer, Animator]
+
+=== AnimatorController: adventurer_espanol ===
+  - clip: reposo (length=0.70s, fps=100)
+  - clip: agachado (length=0.70s, fps=100)
+  - clip: correr (length=0.60s, fps=100)
+  - clip: saltar (length=0.40s, fps=100)
+  - clip: voltereta (length=0.40s, fps=100)
+  - clip: caer (length=0.20s, fps=100)
+  - clip: deslizar (length=0.20s, fps=100)
+  - clip: parado (length=0.30s, fps=100)
+  - clip: borde-agarre (length=0.70s, fps=100)
+  - clip: borde-subir (length=0.50s, fps=100)
+  - clip: reposo-2 (length=0.70s, fps=100)
+  - clip: ataque1 (length=0.50s, fps=100)
+  - clip: ataque2 (length=0.60s, fps=100)
+  - clip: ataque3 (length=0.60s, fps=100)
+  - clip: herido (length=0.30s, fps=100)
+  - clip: morir (length=0.70s, fps=100)
+  - clip: espada-sacar (length=0.40s, fps=100)
+  - clip: espada-guardar (length=0.40s, fps=100)
+  - clip: borde-salto (length=0.20s, fps=100)
+  - clip: pared-deslizar (length=0.20s, fps=100)
+  - clip: escalera-subir (length=0.60s, fps=100)
+  - clip: conjurar (length=0.40s, fps=100)
+  - clip: conjurar-bucle (length=0.40s, fps=100)
+  - clip: objetos (length=0.30s, fps=100)
+  - clip: ataque-aereo1 (length=0.40s, fps=100)
+  - clip: ataque-aereo2 (length=0.30s, fps=100)
+  - clip: ataque-aereo3-listo (length=0.10s, fps=100)
+  - clip: ataque-aereo3-bucle (length=0.20s, fps=100)
+  - clip: ataque-aereo3-fin (length=0.30s, fps=100)
+  - clip: golpe (length=1.30s, fps=100)
+  - clip: correr-golpe (length=0.70s, fps=100)
+  - clip: patada (length=0.80s, fps=100)
+  - clip: patada-caida (length=0.40s, fps=100)
+  - clip: derribado (length=0.70s, fps=100)
+  - clip: levantarse (length=0.70s, fps=100)
+  - clip: caminar (length=1.05s, fps=100)
+  - clip: caminar-agachado (length=1.05s, fps=100)
+  - clip: correr2 (length=0.54s, fps=100)
+  - clip: pared-correr (length=0.60s, fps=100)

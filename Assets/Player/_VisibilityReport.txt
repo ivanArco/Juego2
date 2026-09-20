@@ -1,0 +1,26 @@
+GameObject: adventurer_espanol
+activeSelf: True   activeInHierarchy: True
+layer: Default (0)
+position: (-10.26, -26.18, 0.00)   lossyScale: (4.65, 4.97, 1.00)
+
+SpriteRenderer en: adventurer_espanol
+  enabled: True
+  sprite: Frame_0
+  color: RGBA(1.000, 1.000, 1.000, 1.000)
+  sortingLayerName: Default   sortingOrder: 0
+  bounds: Center: (-10.33, -25.41, 0.00), Extents: (0.44, 0.72, 0.10)
+  SortingGroup en padres: ninguno
+
+Animator en: adventurer_espanol
+  enabled: True
+  runtimeAnimatorController: adventurer_espanol
+  cullingMode: AlwaysAnimate
+
+Rigidbody2D: bodyType=Dynamic gravityScale=1 constraints=FreezeRotation
+
+Raycast hacia abajo (20u): NO golpea nada -> no hay piso debajo, el Rigidbody2D va a caer.
+Tilemap 'Tilemap': celda del jugador (-11, -26, 0) -> tile ahí: vacío, tile justo abajo: vacío
+  Tilemap bounds: origin=(-10, -77, 0) size=(928, 80, 1) cellSize=(1.00, 1.00, 0.00)
+
+Main Camera: position=(0.00, 0.00, -10.00)  orthographicSize=5  aspect=1.777778
+  Posición del jugador en viewport: (-0.08, -2.12, 10.00)  (dentro de cámara: False)
