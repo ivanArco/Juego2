@@ -130,6 +130,7 @@
       "source": "builtin",
       "dependencies": {}
     },
+<<<<<<< HEAD
     "com.unity.cinemachine": {
       "version": "6.6.0",
       "depth": 0,
@@ -139,6 +140,8 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+=======
+>>>>>>> ec009c7de312ba6f09a35354c92b871a01b2e3e6
     "com.unity.collections": {
       "version": "6.6.0",
       "depth": 1,
